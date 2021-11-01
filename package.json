@@ -18,13 +18,13 @@
     "config": "^3.3.6",
     "express": "^4.17.1",
     "mongoose": "^6.0.10",
-    "node-windows": "^1.0.0-beta.6",
     "winston": "^3.3.3"
   },
   "devDependencies": {
     "@babel/core": "^7.15.4",
     "@babel/node": "^7.15.4",
     "@babel/preset-env": "^7.15.4",
+    "node-windows": "^1.0.0-beta.6",
     "nodemon": "^1.19.4",
     "path": "^0.12.7"
   }
